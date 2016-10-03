@@ -1,0 +1,10 @@
+[21-Aug-2016 10:58:05 UTC] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50630 Library:100026 in /home/arksit/public_html/send.php on line 5
+[21-Aug-2016 10:59:44 UTC] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50630 Library:100026 in /home/arksit/public_html/send.php on line 5
+[21-Aug-2016 11:10:34 UTC] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50630 Library:100026 in /home/arksit/public_html/send.php on line 5
+[21-Aug-2016 11:10:34 UTC] PHP Notice:  Undefined index: email in /home/arksit/public_html/send.php on line 6
+[21-Aug-2016 11:10:34 UTC] PHP Notice:  Undefined index: mobile in /home/arksit/public_html/send.php on line 6
+[21-Aug-2016 11:10:34 UTC] PHP Notice:  Undefined index: message in /home/arksit/public_html/send.php on line 6
+[21-Aug-2016 11:19:14 UTC] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50630 Library:100026 in /home/arksit/public_html/send.php on line 5
+[22-Aug-2016 04:49:13 UTC] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50630 Library:100026 in /home/arksit/public_html/send.php on line 5
+[22-Aug-2016 10:09:39 UTC] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50630 Library:100026 in /home/arksit/public_html/send.php on line 5
+[22-Aug-2016 10:15:38 UTC] PHP Warning:  mysqli::mysqli(): Headers and client library minor version mismatch. Headers:50630 Library:100026 in /home/arksit/public_html/send.php on line 5
